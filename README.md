@@ -30,21 +30,20 @@ The project uses a subset of the UCF Crime dataset, which contains various crime
 Usage
 Prepare your own CCTV footage or use sample videos.
 
-Run the Accident Eye application:
+## Run the Accident Eye application:
 
 bash
 Copy code
-python testing.py
-The application will process the video feed and detect accidents in real time.
+run python mymodel.py
+then run python testing.py
+The application will process the video feed and detect accidents in real-time.
 
-If an accident is detected, it will alert the police with timestamp and location details.
+If an accident is detected, it will alert the police with timestamps and location details.
 
-License
-This project is licensed under the MIT License.
 
 Acknowledgments
 UCF Crime dataset
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository.
