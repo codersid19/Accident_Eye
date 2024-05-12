@@ -13,6 +13,11 @@ Accident Eye is a Python-based application that detects road accidents from real
 
 The project uses a subset of the UCF Crime dataset, which contains various crime-related video clips. For road accident detection, a specific subset of this dataset is used.
 
+## Results
+
+![pic1](https://github.com/codersid19/Accident_Eye/assets/67604975/728ff054-523b-46ab-9b30-73741c7332a0)
+
+
 ## Requirements
 
 - Python 3.x
